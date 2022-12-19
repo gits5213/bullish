@@ -1,12 +1,4 @@
-
-
-
-# Bullish Tests Summery 
-- Creating an architecture of the UI & API automation framework, it takes long time which is I didn't manage it during the time frame, and I did something which you might like it below
-- I didn't implement UI Test based on the BDD feature format because there is a lot extra works needs to be done without any benefits on it, like verifying the end-goal of users.
-- However, I Implemented lot easier way to understand both party (Tech vs Non-Tech), reduce time, less complex and understood well.
-- Please take a look at it, and let me know what do you think, I can explain lots of things which I have in mind.
-
+# Bullish Tests Summery
 ## Pre-requirement
 - Java
 - Maven
