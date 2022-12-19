@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="uiTests" verbose="1" >
+    <test name="uiTest" >
+        <classes>
+            <class name="com.bullis.uiTest.LogInTest" />
+        </classes>
+    </test>
+</suite>
