@@ -12,10 +12,10 @@
 ## Editor
 - Intellij
 
-## Execute Test for the first time
+## Execute Test for the first time and generate report
 - Clone project
 - Open terminal/Command prompt
-- Navigate to the project root
+- Navigate to the project root (uiTest or apiTest)
 - > mvn clean
 - > mvn compile
 - > mvn install
