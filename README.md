@@ -20,6 +20,7 @@
 - > mvn compile
 - > mvn install
 - > mvn test
+- > allure serve (report will open on the browser)
 
 ## There are many way to execute test
     - Option#1 (Execute Test for rest of time)
@@ -35,4 +36,4 @@
 - Allure report available by running below command
 
 ## Run allure result
-- allure serve (Report will open in a browser)
+- > allure serve (Report will open in a browser)
