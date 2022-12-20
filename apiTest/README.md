@@ -12,9 +12,10 @@
 - Clone project
 - Open terminal/Command prompt
 - Navigate to the project root
+- > mvn clean
 - > mvn compile
-- > mvn install 
-- > mvn clean test
+- > mvn install
+- > mvn test
   
 ## There are many way to execute test
     - Option#1 (Execute Test for rest of time)
